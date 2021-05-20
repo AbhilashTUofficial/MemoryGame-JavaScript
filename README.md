@@ -7,7 +7,7 @@ This is a fully functional responsive Memory game in JavaScript.
 <br/><br/>
 ![GitHub last commit](https://img.shields.io/github/last-commit/AbhilashTUofficial/MemoryGame-JavaScript?color=blue&label=Last%20Commit%3A&style=for-the-badge)
 ![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/AbhilashTUofficial/MemoryGame-JavaScript?label=Repo%20Size%3A&style=for-the-badge)
-|Rock Paper Scissors|
+|Memory Game|
 |------|
 |<img src="./Img/memoryGame.png" width="400">|
 
