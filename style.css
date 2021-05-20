@@ -1,0 +1,56 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    background-color:green;
+}
+header{
+    background-color: #24272e;;
+    padding: 20px;
+}
+header >h1{
+    color:white;
+    text-align: center;
+    font-family:  sans-serif;
+}
+.score-board{
+    position: relative;
+    margin: 20px auto;
+    border: 3px solid white;
+    border-radius: 4px;
+    width: 200px;
+    text-align: center;
+    color:#24272e ;
+    font-size: 32px;
+    padding: 15px 20px;
+    font-family: sans-serif;
+}
+.prompt{
+    text-align: center;
+    font-size: 32px;
+    font-weight: bold;
+    font-family: sans-serif;
+    color: white;
+}
+.grid-board{
+    position: relative;
+    margin: 20px auto;
+    border: 3px solid white;
+    border-radius: 4px;
+    width: 600px;
+    height: 600px;
+    padding: 6px 8px;
+
+}
+.grid{
+    display: inline;
+    height: 200px;
+    width: 200px;
+    padding: 2px;
+}
+.grid > img{
+    margin: 4px 6px 4px 6px;
+    width: 180px;
+}
